@@ -1,6 +1,6 @@
 # Project UTS - Pemrograman Lanjut - Tic Tac Toe
 
-Ahmad Fakhri Mirfananda-
+Ahmad Fakhri Mirfananda
 
 Karenina Kamila
 

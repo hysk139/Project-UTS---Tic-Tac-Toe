@@ -1,4 +1,4 @@
-# Project UTS - Program Lanjutan- Tic Tac Toe
+# Project UTS - Pemrograman Lanjut - Tic Tac Toe
 
 Ahmad Fakhri Mirfananda
 Karenina Kamila
